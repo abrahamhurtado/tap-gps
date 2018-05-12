@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="latitud_label">Latitud</string>
+    <string name="longitud_label">Longitud</string>
+</resources>
